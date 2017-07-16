@@ -1,0 +1,8 @@
+﻿+Từ khóa this trong java
+ - Lời gọi this() constructor nên được sử dụng để tái sử dụng constructor
+ - tham số và biến instance là giống nhau, và đó là lý do tại sao chúng ta sử dụng từ khóa this để phân biệt giữa các biến cục bộ và các biến instance.
+
+
+
+
+
